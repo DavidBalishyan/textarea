@@ -1,4 +1,4 @@
-# [textarea.my](https://textarea.my)
+# <img src="/favicon.ico"/> textarea.my
 
 A _minimalist_ text editor that lives entirely in your browser and stores everything in the URL hash.
 
